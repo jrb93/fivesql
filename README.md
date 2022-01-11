@@ -1,5 +1,7 @@
 # fivesql
-A MySQL wrapper for FiveM FX Server using oxmysql, based on https://github.com/alexgrist/GLua-MySQL-Wrapper
+A MySQL wrapper for FiveM FX Server using oxmysql, based on [alexgrist](https://github.com/alexgrist/GLua-MySQL-Wrapper) gmod wrapper.
+
+Requires: [oxmysql](https://github.com/overextended/oxmysql)
 
 ---
 ### Easy Query Building
